@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xw9l/xjDMUuKryoNo9p01BUJYlwLuen5ipltO4Z541oswLE2FKo9+UBua0Jns+HwsZWHkr9ioFCmNYQ4OkcUTA==",
+  "dgSpecHash": "7vwQI/b3HNp5xavxn3H2cAEZdMU25gMLLB0ypw4wT3NOlqt+eV5jlW02cNnQgS//ENcYHM1RN5oAJIQ8HnsHfw==",
   "success": true,
-  "projectFilePath": "D:\\New folder (4)\\InventoryManager.Data\\InventoryManager.Data.csproj",
+  "projectFilePath": "C:\\Users\\Matheus Campos\\Documents\\GitHub\\Inventory-Manager\\InventoryManager.Data\\InventoryManager.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matheus Campos\\.nuget\\packages\\fody\\6.0.0\\fody.6.0.0.nupkg.sha512",
     "C:\\Users\\Matheus Campos\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

@@ -298,11 +298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New folder (4)\\InventoryManager.Data\\InventoryManager.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Matheus Campos\\Documents\\GitHub\\Inventory-Manager\\InventoryManager.Data\\InventoryManager.Data.csproj",
       "projectName": "InventoryManager.Data",
-      "projectPath": "D:\\New folder (4)\\InventoryManager.Data\\InventoryManager.Data.csproj",
+      "projectPath": "C:\\Users\\Matheus Campos\\Documents\\GitHub\\Inventory-Manager\\InventoryManager.Data\\InventoryManager.Data.csproj",
       "packagesPath": "C:\\Users\\Matheus Campos\\.nuget\\packages\\",
-      "outputPath": "D:\\New folder (4)\\InventoryManager.Data\\obj\\",
+      "outputPath": "C:\\Users\\Matheus Campos\\Documents\\GitHub\\Inventory-Manager\\InventoryManager.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matheus Campos\\AppData\\Roaming\\NuGet\\NuGet.Config",
